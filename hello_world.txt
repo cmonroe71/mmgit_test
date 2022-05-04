@@ -1,1 +1,2 @@
 Going through this tutorial once again to try to stick with it this time!
+Trying to manage the git commit command. 
